@@ -1,0 +1,5 @@
+# Set primary monitor for docked laptop
+xrandr --output DP-2 --primary
+
+# Set primary monitor for undocked laptop
+#xrandr --output LVDS-0 --primary
